@@ -20,6 +20,21 @@ DAX
 Data Modeling
 Microsoft Excel
 
+Report Scrrenshot :
+
+<img width="1527" height="855" alt="Screenshot 2026-07-11 014433" src="https://github.com/user-attachments/assets/3f000ceb-e29d-4b31-af50-fb1281fd9714" />
+
+<img width="1522" height="862" alt="Screenshot 2026-07-11 014450" src="https://github.com/user-attachments/assets/f55f03f1-1226-453f-8b2f-b414740967d0" />
+
+<img width="1523" height="857" alt="Screenshot 2026-07-11 014506" src="https://github.com/user-attachments/assets/16a85b9b-962f-4e39-bb21-e74c5e5b93ff" />
+
+<img width="1525" height="862" alt="Screenshot 2026-07-11 014520" src="https://github.com/user-attachments/assets/c3064d0f-8460-4477-9dba-89c772f3b3a5" />
+
+
+
+
+
+
 📈 Key Business Insights
 Identified the highest revenue-generating product categories.
 Analyzed monthly sales trends to uncover seasonal demand patterns.
