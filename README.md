@@ -134,23 +134,3 @@ Optimize pricing and inventory decisions.
 Improve logistics and delivery performance.
 Track business performance against strategic targets.
 Support data-driven decision-making through interactive dashboards.
-
-Project Structure
-
-Indian-Ecommerce-Sales-Analysis/
-│
-├── Data/
-│   ├── Ecommerce_Sales.csv
-│   └── Sales_Target.csv
-│
-├── Python/
-│   ├── Data_Cleaning.ipynb
-│   ├── EDA.ipynb
-│   └── SQL_Analysis.sql
-│
-├── PowerBI/
-│   └── Ecommerce_Sales_Analysis.pbix
-│
-├── Dashboard_Images/
-├── README.md
-└── requirements.txt
